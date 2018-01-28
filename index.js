@@ -1,3 +1,3 @@
 const app = "I don't do much."
 
-var kittens = ["milo"];
+var kittens = ["Milo", "Otis", "Garfield"];
